@@ -1,0 +1,1 @@
+print "Tuesday: Cloudy, High 46, Low 32"
